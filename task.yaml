@@ -78,7 +78,7 @@ Resources:
   EC2Instance:
     Type: 'AWS::EC2::Instance'
     Properties:
-      ImageId: ami-01893222c83843146
+      ImageId: ami-******
       InstanceType: t2.micro
       KeyName: Newkeyvalue
       Tags:
